@@ -1,22 +1,22 @@
-# 关于
+# About
 
-语料是自然语言处理的核心部件，是直接影响模型效果的重要因素。这个Repo的意义在于收集随paper一起开放发布的语料，以供研究人员方便查询和使用。
+This repo is used for collecting the corpus which is released with paper for open access.
 
-# 字段说明
+# Format Description 
 
-Source: 构建corpus的paper
+Source: The source paper which builds and releases the corpus
 
-Link: corpus的链接
+Link: The link of corpus
 
-Description: corpus的梗概信息
+Description: The description of corpus, summarized from the source paper
 
-Version: 版本号和时间
+Version: Version NO and release time
 
-Tag: corpus的标签
+Tag: Application domain of corpus
 
-Organization: 发布机构
+Organization: The organization which release the corpus
 
-Language: 语言
+Language: Corpus language
 
-Target: 使用该corpus进行实验的paper
+Target: The papers which cites the corpus 
 
