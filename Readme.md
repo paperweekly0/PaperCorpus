@@ -5,9 +5,14 @@
 # 字段说明
 
 Source: 构建corpus的paper
+
 Link: corpus的链接
+
 Description: corpus的梗概信息
+
 Version: 版本号
+
 Tag: corpus的标签
+
 Target: 使用该corpus进行实验的paper
 
