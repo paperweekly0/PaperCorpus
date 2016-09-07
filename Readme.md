@@ -10,9 +10,13 @@ Link: corpus的链接
 
 Description: corpus的梗概信息
 
-Version: 版本号
+Version: 版本号和时间
 
 Tag: corpus的标签
+
+Organization: 发布机构
+
+Language: 语言
 
 Target: 使用该corpus进行实验的paper
 
