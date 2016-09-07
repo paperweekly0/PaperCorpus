@@ -10,7 +10,7 @@ Link: The link of corpus
 
 Description: The description of corpus, summarized from the source paper
 
-Version: Version NO and release time
+Time: Release time
 
 Tag: Application domain of corpus
 
