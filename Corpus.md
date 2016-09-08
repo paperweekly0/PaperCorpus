@@ -249,6 +249,24 @@ Multi-Modal, Video, Sentiment
 English
 ## Target
 
+# MCTest Dataset
+## Source
+[MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text](http://aclweb.org/anthology/D/D13/D13-1020.pdf)
+## Link
+[Dataset Link](http://research.microsoft.com/en-us/um/redmond/projects/mctest/)
+## Description
+MCTest is a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text. The data was gathered using Mechanical Turk. Details on the data, and the process for gathering and cleaning it, can be found in our paper, published at EMNLP 2013.
+## Time
+2013
+## Tag
+Reading Comprehension
+## Organization
+(1) Microsoft Research One Microsoft Way, Redmond
+## Language
+English
+## Target
+
+
 
 
 
