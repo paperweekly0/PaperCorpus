@@ -5,8 +5,8 @@
 [Dataset Link](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
 ## Description
 a dataset containing almost 1 million multi-turn dialogues, with a total of over 7 million utterances and 100 million words. This provides a unique resource for research into building dialogue managers based on neural language models that can make use of large amounts of unlabeled data. 
-## Version
-v2,2015
+## Time
+2015
 ## Tag
 Multi-Turn Dialogue System
 ## Organization
@@ -24,8 +24,8 @@ English
 [Dataset Link](http://clic.cimec.unitn.it/lambada/)
 ## Description
 A dataset to evaluate the capabilities of computational models for text understanding by means of a word prediction task. LAMBADA is a collection of narrative passages sharing the characteristic that human subjects are able to guess their last word if they are exposed to the whole passage, but not if they only see the last sentence preceding the target word. To succeed on LAMBADA,computational models cannot simply rely on local context, but must be able to keep track of information in the broader discourse.
-## Version
-v1,2016
+## Time
+2016
 ## Tag
 Word Prediction Task
 ## Language
@@ -42,8 +42,8 @@ English
 [Dataset Link](https://github.com/deepmind/rc-data)
 ## Description
 Inspired by work in summarization, we create two machine reading corpora by exploiting online newspaper articles and their matching summaries. We have collected 93k articles from the CNN and 220k articles from the Daily Mail websites. Both news providers supplement their articles with a number of bullet points, summarizing aspects of the information contained in the article. Of key importance is that these summary points are abstractive and do not simply copy sentences from the documents. We construct a corpus of document–query–answer triples by turning these bullet points into Cloze style questions by replacing one entity at a time with a placeholder.
-## Version
-v1,2015
+## Time
+2015
 ## Tag
 Machine Reading Comprehension
 ## Organization
@@ -61,8 +61,8 @@ English
 ## Description
 The CBT is built from books that are freely available thanks to Project Gutenberg. Using children’s books guarantees a clear narrative structure, which can make the role of context more salient.
 In each question, the first 20 sentences form the context (denoted S), and a word (denoted a) is removed from the 21st sentence, which becomes the query (denoted q). Models must identify the answer word a among a selection of 10 candidate answers (denoted C) appearing in the context sentences and the query.
-## Version
-v1,2016
+## Time
+2016
 ## Tag
 Machine Reading Comprehension
 ## Organization
@@ -80,8 +80,8 @@ English
 ## Description
 SQuAD, consisting of 100,000+ questions posed by crowdworkers on a set of
 Wikipedia articles, where the answer to each question is a segment of text from the corresponding reading passage.
-## Version
-v1,2016
+## Time
+2016
 ## Tag
 Machine Reading Comprehension 
 ## Organization
@@ -101,8 +101,8 @@ Though many solid works on previously described public datasets, there is no stu
 (1) As far as we know, this is the first Chinese Cloze-style reading comprehension datasets.
 (2) We provide a large-scale Chinese reading comprehension data in news domain, as well as its validation and test data as the in-domain test.
 (3) Further, we release two out-of-domain test sets, and it deserves to highlight that one of the test sets is made by the humans, which makes it harder to answer than the automatically generated test set.
-## Version
-v1,2016
+## Time
+2016
 ## Tag
 Machine Reading Comprehension 
 ## Organization
@@ -121,8 +121,8 @@ Chinese
 [Dataset Link](http://agarciaduran.org/)
 ## Description
 We present the 30M Factoid QuestionAnswer Corpus, an enormous question answer pair corpus produced by applying a novel neural network architecture on the knowledge base Freebase to transduce facts into natural language questions. The produced question answer pairs are evaluated both by human evaluators and using automatic evaluation metrics, including well-established machine translation and sentence similarity metrics.
-## Version
-v1,2016
+## Time
+2016
 ## Tag
 Question Answer 
 ## Organization
@@ -139,8 +139,8 @@ English
 [Dataset Link](http://icrc.hitsz.edu.cn/Article/show/139.html)
 ## Description
 We introduce a Large-scale Chinese Short Text Summarization dataset constructed from the Chinese microblogging website SinaWeibo. This corpus consists of over 2 million real Chinese short texts with short summaries given by the writer of each text. We also manually tagged the relevance of 10,666 short summaries with their corresponding short texts. 
-## Version
-v1,2015
+## Time
+2015
 ## Tag
 Text Summarization
 ## Organization
